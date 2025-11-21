@@ -1,4 +1,4 @@
-export const GITHUB_USERNAME = "ManojBuilds"; 
+export const GITHUB_USERNAME = "ManojBuilds";
 
 export const WORK_EXPERIENCE = [
     {
