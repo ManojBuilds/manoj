@@ -12,7 +12,7 @@ const HeroSection = () => {
           src={"/assets/manoj.png"}
           width={1024}
           height={1024}
-          className="size-24 rounded-full overflow-hidden object-cover"
+          className="size-32 rounded-md overflow-hidden object-cover"
           alt="Manoj's profile picture"
         />
       </div>
