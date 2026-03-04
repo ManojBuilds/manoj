@@ -18,7 +18,7 @@ const HeroSection = () => {
       </div>
       <h1 className="mt-4 text-2xl lg:text-4xl font-semibold font-serif">Manoj Kumar</h1>
       <div className="mt-2 flex items-center justify-between">
-        <p className="text-muted-foreground">22 . Engineer . Builder</p>
+        <p className="text-muted-foreground">Engineer . Builder</p>
         <div className="flex items-center gap-2">
           {socialLinks.map(({ url, icon: Icon }, i) => (
             <Link href={url} key={i} target="_blank">
@@ -35,7 +35,6 @@ const HeroSection = () => {
         </span>{" "}
         From planning frontend design to building and integrating with backend.
         Whether it is an AI application or normal application I do all of it.
-        I&apos;m a very boring person and My friend is my LAPTOP!
       </p>
     </div>
   );

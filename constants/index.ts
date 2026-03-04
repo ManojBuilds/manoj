@@ -23,12 +23,6 @@ export const WORK_EXPERIENCE = [
 
 export const PROJECTS = [
     {
-        title: "AutoInvoice — Stop typing invoices into QuickBooks. SAAS",
-        link: "https://autoinvoice.boopsign.com",
-        description: "Forward them to your unique email, we extract everything, you review in 30 seconds, and it syncs automatically. Built for freelancers and small businesses drowning in manual data entry.",
-        currentlyWorking: true
-    },
-    {
         title: "Heysheet - The Best Form Backend for Modern Developers. SAAS",
         link: "https://heysheet.in",
         description: "Connect any HTML form to Google Sheets & Notion in seconds. No backend code, no server setup, no hassle."
@@ -37,18 +31,6 @@ export const PROJECTS = [
         title: "Boopsign - E-Signature for Freelancers & Consultants — No Account Required for Signers. SAAS",
         link: "https://boopsign.com",
         description: "The simplest DocuSign alternative built for speed. Send contracts, NDAs, and proposals in under 3 minutes. Your clients sign instantly—no login, no app download, no friction. Just click, sign, done."
-    },
-
-    {
-        title: "Payping - Stop Chasing Payments. Let PayPing Do It. SAAS",
-        link: "https://payping.boopsign.com",
-        description: "Automated invoice reminders that actually work. Send personalized emails, track delivery, and get paid faster—all from one beautiful dashboard."
-    },
-
-    {
-        title: "DepoSum - Stop Drowning in Deposition Transcripts. SAAS",
-        link: "https://getdeposum.heysheet.in",
-        description: "DepoSum uses AI to automatically summarize lengthy depositions in minutes, not hours. Free up your time for high-value legal work that wins cases."
     },
     {
         title: "Stack Aut (YC) Landing page",
