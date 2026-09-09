@@ -23,13 +23,18 @@ export const WORK_EXPERIENCE = [
 
 export const PROJECTS = [
     {
+        title: "Kivio - AI Video Clipping Agent — Turn Long Videos into Viral Clips. SAAS",
+        link: "https://kivio.pro",
+        description: "Transform long videos into viral social clips with intelligent AI editing, 9:16 vertical reframing, and styled dynamic captions. An OpusClip alternative built for TikTok, Reels, and Shorts."
+    },
+    {
         title: "Heysheet - The Best Form Backend for Modern Developers. SAAS",
-        link: "https://heysheet.in",
+        link: "https://heysheet-landing-nine.vercel.app/",
         description: "Connect any HTML form to Google Sheets & Notion in seconds. No backend code, no server setup, no hassle."
     },
     {
         title: "Boopsign - E-Signature for Freelancers & Consultants — No Account Required for Signers. SAAS",
-        link: "https://boopsign.com",
+        link: "https://sign.kivio.pro",
         description: "The simplest DocuSign alternative built for speed. Send contracts, NDAs, and proposals in under 3 minutes. Your clients sign instantly—no login, no app download, no friction. Just click, sign, done."
     },
     {
